@@ -83,7 +83,7 @@ public class MainFrame extends JFrame implements ActionListener {
     try {
       Card card = magicController.getCardsByManaAndColor(mana, color);
       System.out.println("Card name: " + (Objects.nonNull(card) ? card.getUrlImage() : "Card not found"));
-      JLabel label = new JLabel(new ImageIcon(magicController.getImageCardsByUrl(card.getUrlImage())));
+      JLabel label = new JLabel(new ImageIcon(card.getUrlImage()));
       frame.add(label);
     } catch (IOException e) {
       e.printStackTrace();
