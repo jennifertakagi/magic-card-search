@@ -7,7 +7,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/magic-card-search">
+  <a href="https://github.com/jennifertakagi/magic-card-search">
     <img src="docs/logo.png" alt="Logo" width="200" height="100">
   </a>
 
@@ -16,12 +16,12 @@
   <p align="center">
     Discover a Magic's card by mana and color!
     <br />
-    <a href="https://github.com/othneildrew/magic-card-search"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jennifertakagi/magic-card-search"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/magic-card-search/issues">Report Bug</a>
+    <a href="https://github.com/jennifertakagi/magic-card-search/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/magic-card-search/issues">Request Feature</a>
+    <a href="https://github.com/jennifertakagi/magic-card-search/issues">Request Feature</a>
   </p>
 </p>
 
@@ -94,7 +94,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/magic-card-search/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jennifertakagi/magic-card-search/issues) for a list of proposed features (and known issues).
 
 
 
@@ -124,16 +124,16 @@ Jennifer Takagi - [@jennitakagi](https://twitter.com/jennitakagi)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/magic-card-search.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/magic-card-search/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/magic-card-search.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/magic-card-search/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/magic-card-search.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/magic-card-search/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/magic-card-search.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/magic-card-search/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/magic-card-search.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/magic-card-search/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jennifertakagi/magic-card-search.svg?style=for-the-badge
+[contributors-url]: https://github.com/jennifertakagi/magic-card-search/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jennifertakagi/magic-card-search.svg?style=for-the-badge
+[forks-url]: https://github.com/jennifertakagi/magic-card-search/network/members
+[stars-shield]: https://img.shields.io/github/stars/jennifertakagi/magic-card-search.svg?style=for-the-badge
+[stars-url]: https://github.com/jennifertakagi/magic-card-search/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jennifertakagi/magic-card-search.svg?style=for-the-badge
+[issues-url]: https://github.com/jennifertakagi/magic-card-search/issues
+[license-shield]: https://img.shields.io/github/license/jennifertakagi/magic-card-search.svg?style=for-the-badge
+[license-url]: https://github.com/jennifertakagi/magic-card-search/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jennifer-takagi/
 [product-screenshot]: images/screenshot.png
